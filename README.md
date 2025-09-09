@@ -1,0 +1,2 @@
+# Inventory
+Asset info pages
